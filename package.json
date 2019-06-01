@@ -14,7 +14,7 @@
     "dev": "nuxt",
     "start": "nuxt start",
     "build": "tsc",
-    "server": "node dist/index.js"
+    "server": "node index.js"
   },
   "dependencies": {
     "nuxt": "^2.8.0"
